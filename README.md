@@ -1,4 +1,4 @@
-🔰Emoji-App
+🔰Weather-App
 ________
 This Application can provide weather update of any city on this globe and is  made using React.js
 
